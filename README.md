@@ -57,7 +57,7 @@ The analysis uses a consumer behavior dataset containing information on:
 
 **Key Dashboard Pages**:
 
-<img width="1920" height="1080" alt="image" src="C:\Users\ASUS\OneDrive\Documents\GitHub\customer trend data analysis\Dasboard_Screenshot.png" />
+<img width="1920" height="1080" alt="image" src="Dasboard_Screenshot.png" />
 
 - **Executive Summary**: High-level KPIs (Total Revenue, Customer Count, Repeat Purchase Rate).
 - **Customer Segmentation**: Analysis by demographics and value.
